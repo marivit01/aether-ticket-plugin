@@ -1,1 +1,109 @@
 /* You can add global styles to this file, and also import other style files */
+/*@import "~@angular/material/prebuilt-themes/indigo-pink.css";*/
+
+/**, ::after, ::before {
+     box-sizing: border-box; 
+}
+
+textarea {
+    min-height: 40px;
+}
+
+.full-width{
+    width:100%
+}
+
+html, body { height: 100%; }
+body { 
+    margin: 0; 
+    font-family: 'Roboto', sans-serif;    
+}
+
+.title {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+input {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 5px;
+    margin-bottom: 20px;
+    padding-right: 30px; 
+}
+
+
+button{
+    transition: .3s!important;
+}
+
+button:focus, button:active{
+    outline: none;
+}
+
+button:active{
+    transform:scale(.95);
+}*/
+
+  /*-------------------------------------------------------------*/
+
+/*.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+    margin-top: 0;
+}
+
+[type=reset], [type=submit], button, html [type=button] {
+    -webkit-appearance: button;
+}
+
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.h3, h3 {
+    font-size: 1.5rem;
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+.h5, h5 {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.1);
+}
+
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.alert {
+    position: relative;
+    padding: .75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}*/
